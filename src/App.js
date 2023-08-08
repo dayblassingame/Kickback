@@ -30,6 +30,8 @@ export function App(){
                 <button id="voiceRecording"><i>microphone</i></button>
                 <audio src="" id="audioElement" controls></audio>
             </div>
+            <footer>
+            </footer>
        </main>
     );
 }
